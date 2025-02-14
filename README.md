@@ -1,6 +1,10 @@
 # React Native Loja Games Exemplo
 App criado para exemplificar o uso de navegações com o React Navigation (Stack, Tab e Drawer), uso de Modal, FlatList e ícones.
 
+### ⚠️ ATENÇÃO!!!
+**Este projeto foi desenvolvido como parte de uma atividade educacional e tem fins exclusivamente didáticos.** Não é recomendado utilizá-lo em ambientes de produção.
+
+
 ## Instalação
 1. Clone esse repositório ou faça o download dos arquivos
 2. Abra o projeto no Visual Studio Code
